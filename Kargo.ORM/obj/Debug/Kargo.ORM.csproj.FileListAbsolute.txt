@@ -1,0 +1,5 @@
+C:\Users\smart.ogrenci\Desktop\KargoTakip--KatmanlıMimari--26Nisan2019\Kargo.ORM\bin\Debug\Kargo.ORM.dll
+C:\Users\smart.ogrenci\Desktop\KargoTakip--KatmanlıMimari--26Nisan2019\Kargo.ORM\bin\Debug\Kargo.ORM.pdb
+C:\Users\smart.ogrenci\Desktop\KargoTakip--KatmanlıMimari--26Nisan2019\Kargo.ORM\obj\Debug\Kargo.ORM.csprojResolveAssemblyReference.cache
+C:\Users\smart.ogrenci\Desktop\KargoTakip--KatmanlıMimari--26Nisan2019\Kargo.ORM\obj\Debug\Kargo.ORM.dll
+C:\Users\smart.ogrenci\Desktop\KargoTakip--KatmanlıMimari--26Nisan2019\Kargo.ORM\obj\Debug\Kargo.ORM.pdb

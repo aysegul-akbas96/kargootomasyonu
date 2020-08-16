@@ -1,0 +1,15 @@
+C:\Users\smart.ogrenci\Desktop\KargoTakip--KatmanlıMimari--26Nisan2019\KargoTakip--KatmanlıMimari--26Nisan2019\bin\Debug\KargoTakip--KatmanlıMimari--26Nisan2019.exe.config
+C:\Users\smart.ogrenci\Desktop\KargoTakip--KatmanlıMimari--26Nisan2019\KargoTakip--KatmanlıMimari--26Nisan2019\bin\Debug\KargoTakip--KatmanlıMimari--26Nisan2019.exe
+C:\Users\smart.ogrenci\Desktop\KargoTakip--KatmanlıMimari--26Nisan2019\KargoTakip--KatmanlıMimari--26Nisan2019\bin\Debug\KargoTakip--KatmanlıMimari--26Nisan2019.pdb
+C:\Users\smart.ogrenci\Desktop\KargoTakip--KatmanlıMimari--26Nisan2019\KargoTakip--KatmanlıMimari--26Nisan2019\bin\Debug\Kargo.ORM.dll
+C:\Users\smart.ogrenci\Desktop\KargoTakip--KatmanlıMimari--26Nisan2019\KargoTakip--KatmanlıMimari--26Nisan2019\bin\Debug\Kargo.ORM.pdb
+C:\Users\smart.ogrenci\Desktop\KargoTakip--KatmanlıMimari--26Nisan2019\KargoTakip--KatmanlıMimari--26Nisan2019\obj\Debug\KargoTakip--KatmanlıMimari--26Nisan2019.csprojResolveAssemblyReference.cache
+C:\Users\smart.ogrenci\Desktop\KargoTakip--KatmanlıMimari--26Nisan2019\KargoTakip--KatmanlıMimari--26Nisan2019\obj\Debug\KargoTakip__KatmanlıMimari__26Nisan2019.Form1.resources
+C:\Users\smart.ogrenci\Desktop\KargoTakip--KatmanlıMimari--26Nisan2019\KargoTakip--KatmanlıMimari--26Nisan2019\obj\Debug\KargoTakip__KatmanlıMimari__26Nisan2019.Properties.Resources.resources
+C:\Users\smart.ogrenci\Desktop\KargoTakip--KatmanlıMimari--26Nisan2019\KargoTakip--KatmanlıMimari--26Nisan2019\obj\Debug\KargoTakip--KatmanlıMimari--26Nisan2019.csproj.GenerateResource.Cache
+C:\Users\smart.ogrenci\Desktop\KargoTakip--KatmanlıMimari--26Nisan2019\KargoTakip--KatmanlıMimari--26Nisan2019\obj\Debug\KargoTakip--KatmanlıMimari--26Nisan2019.exe
+C:\Users\smart.ogrenci\Desktop\KargoTakip--KatmanlıMimari--26Nisan2019\KargoTakip--KatmanlıMimari--26Nisan2019\obj\Debug\KargoTakip--KatmanlıMimari--26Nisan2019.pdb
+C:\Users\smart.ogrenci\Desktop\KargoTakip--KatmanlıMimari--26Nisan2019\KargoTakip--KatmanlıMimari--26Nisan2019\obj\Debug\KargoTakip__KatmanlıMimari__26Nisan2019.Form2.resources
+C:\Users\smart.ogrenci\Desktop\KargoTakip--KatmanlıMimari--26Nisan2019\KargoTakip--KatmanlıMimari--26Nisan2019\obj\Debug\KargoTakip__KatmanlıMimari__26Nisan2019.Form3.resources
+C:\Users\smart.ogrenci\Desktop\KargoTakip--KatmanlıMimari--26Nisan2019\KargoTakip--KatmanlıMimari--26Nisan2019\obj\Debug\KargoTakip__KatmanlıMimari__26Nisan2019.Form4.resources
+C:\Users\smart.ogrenci\Desktop\KargoTakip--KatmanlıMimari--26Nisan2019\KargoTakip--KatmanlıMimari--26Nisan2019\obj\Debug\KargoTakip__KatmanlıMimari__26Nisan2019.Form5.resources
